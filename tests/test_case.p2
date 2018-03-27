@@ -1,0 +1,25 @@
+int test_case(int i)
+{
+ int a=0;
+switch(i)
+{
+	case 0 :
+
+		 a=5;
+	break;
+	case 1 :
+
+		 a=1;
+		break;
+	case 2 :
+
+ 		a=2;
+		break;
+	default:
+		a=7;
+	
+
+}
+return a;
+
+}
